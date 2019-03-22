@@ -1,2 +1,3 @@
-# Legalizzr - Sistema de Gestão Empresarial
-Aplicação que gerencia pequenas empresas como setores financeiro, vendas, estoque e notas ficais.
+# Volvo - Application Test
+
+API Reference: http://localhost:8080/swagger-ui.html#/

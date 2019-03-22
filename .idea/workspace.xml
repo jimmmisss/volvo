@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6522d6ac-5ff1-4926-9f93-562fa77641e4" name="Default Changelist" comment="" />
+    <list default="true" id="6522d6ac-5ff1-4926-9f93-562fa77641e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,14 +67,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/volvo/config/SwaggerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="57" column="70" selection-start-line="57" selection-start-column="70" selection-end-line="57" selection-end-column="70" />
+            <state relative-caret-position="27">
+              <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -136,6 +150,7 @@
       <find>endere</find>
       <find>Legalizzr</find>
       <find>ela</find>
+      <find>colv</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -150,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/notalegal/LegalizzrInit.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/notalegal/persistence/models/Categoria.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/notalegal/persistence/services/CategoriaService.java" />
@@ -196,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/volvo/controller/DepartmentController.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/volvo/controller/PermissionController.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/volvo/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -276,7 +291,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553283009638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553283725078" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../projetos/elanx-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -422,7 +437,7 @@
       <workItem from="1552081193051" duration="5957000" />
       <workItem from="1552132288952" duration="4426000" />
       <workItem from="1552220272166" duration="1364000" />
-      <workItem from="1553276040522" duration="6761000" />
+      <workItem from="1553276040522" duration="7509000" />
     </task>
     <task id="LOCAL-00001" summary="Mudanças estruturais, mudança de dados relacionadas a conexão com banco postgres.">
       <created>1550325325727</created>
@@ -470,7 +485,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142233000" />
+    <option name="totallyTimeSpent" value="142981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="305" width="1360" height="728" extended-state="6" />
@@ -481,7 +496,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2678843" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2678843" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.2332636" />
       <window_info anchor="bottom" id="Spring" order="1" />
@@ -494,7 +509,7 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.21896552" />
-      <window_info active="true" anchor="bottom" id="Debug" order="11" visible="true" weight="0.39482757" />
+      <window_info anchor="bottom" id="Debug" order="11" visible="true" weight="0.39482757" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -561,13 +576,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/volvo/persistence/services/PedidoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/volvo/persistence/models/enums/TipoCliente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -993,11 +1001,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/volvo/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="57" column="70" selection-start-line="57" selection-start-column="70" selection-end-line="57" selection-end-column="70" />
+        <state relative-caret-position="27">
+          <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
